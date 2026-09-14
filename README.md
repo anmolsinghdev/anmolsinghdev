@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Technical Team Lead specializing in building and designing exceptional digital experiences. Currently, I’m focused on building websites.<br>Expert in developing frontend user interfaces using React.js, HTML, CSS, and JavaScript Experienced in developing modern responsive web applications using the latest web technologies like Tailwind. Familiar with Vercel, and Heroku for deploying web applications Experienced in debugging and troubleshooting web applications for optimal performance.
+I’m a Technical Lead specializing in building and designing exceptional digital experiences. Currently, I’m focused on building websites.<br>Expert in developing frontend user interfaces using React.js, HTML, CSS, and JavaScript Experienced in developing modern responsive web applications using the latest web technologies like Tailwind. Familiar with Vercel, and Heroku for deploying web applications Experienced in debugging and troubleshooting web applications for optimal performance.
 
 
 ## 🌐 Socials:
